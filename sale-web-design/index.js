@@ -1,0 +1,1 @@
+w3.slideshow(".banner-slider", 1500);
